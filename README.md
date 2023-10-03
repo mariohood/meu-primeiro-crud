@@ -1,4 +1,6 @@
 # meu-primeiro-crud
+# https://www.udemy.com/course/des-web-quarkus-basico/learn/lecture/17847294#overview
+# 13.48
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
