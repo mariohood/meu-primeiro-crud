@@ -1,6 +1,8 @@
 # meu-primeiro-crud
 # https://www.udemy.com/course/des-web-quarkus-basico/learn/lecture/17847294#overview
 # 13.48
+# localhost:8080/q/swagger-ui/
+
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 

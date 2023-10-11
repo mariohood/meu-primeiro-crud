@@ -22,6 +22,4 @@ public class Produto extends PanacheEntity{
     @UpdateTimestamp
     public Date dataAtualizacao;
 
-
-
 }
